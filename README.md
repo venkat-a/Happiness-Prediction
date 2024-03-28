@@ -64,3 +64,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn
 ## Conclusion
 
 This technical report provides a comprehensive overview of the steps taken to analyze the ACME Happiness Survey . Through methodical preprocessing, insightful EDA, and predictive modeling, we have identified key factors influencing happiness and developed models capable of predicting happiness levels with considerable accuracy.
+
+## AI Assistance Notice
+AI provided support with Portions of coding, documentation and ideation
